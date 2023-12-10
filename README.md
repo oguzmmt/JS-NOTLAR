@@ -1,2 +1,2 @@
 # JS-NOTLAR
-### js ile genel bir özet
+### js ile ilgili genel bir özet
